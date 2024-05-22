@@ -1,5 +1,4 @@
-
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z3bzlmem9tZWNsZzJ3YWZjMHg5Y3dlNzFtZ3d3cnZ5d2pxbjZsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif)
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z3bzlmem9tZWNsZzJ3YWZjMHg5Y3dlNzFtZ3d3cnZ5d2pxbjZsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif"/></p>
 
 <h1 align="center"> Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"

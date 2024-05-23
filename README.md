@@ -1,20 +1,23 @@
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z3bzlmem9tZWNsZzJ3YWZjMHg5Y3dlNzFtZ3d3cnZ5d2pxbjZsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif"/></p>
+<!--<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z3bzlmem9tZWNsZzJ3YWZjMHg5Y3dlNzFtZ3d3cnZ5d2pxbjZsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif"/></p>-->
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/85acc356625391.59b68c1c92867.png"/></p>
 
 <h1 align="center"> Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> This is Faiza Aslam</h1>
 
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/woman-is-sitting-with-laptop-concept-illustration-working-freelancing-studying-education-wo_572614-359.jpg?w=360">
 
 ![profile count](https://komarev.com/ghpvc/?username=faiza-aslam&color=red)&nbsp;
 [![GitHub faiza-aslam](https://img.shields.io/github/followers/faiza-aslam?label=follow&style=social)](https://github.com/faiza-aslam)&nbsp;
 
 ## 👨🏻‍💻 About Me
 
-- 💡 &nbsp;I'm a software engineer with 10+ years of experience in the field of software design & development.
+- 💡 &nbsp;I'm a software engineer with 10+ years of experience in software design & development.
 - 💻 &nbsp;Currently working as a Principal Software Engineer at [10Pearls](https://10pearls.com/).
-- 🌱 &nbsp;I'm on track for learning more about low-cost software design & different cloud design patterns.
+- 🌱 &nbsp;Learning more about low-cost software design & different cloud design patterns.
 - 💬 &nbsp;Ask me about java/kotlin/spring/AWS & Related Stuff.
+- 🍵 &nbsp;Tea Lover & a big time foodie 🍔
 
 ---
 
